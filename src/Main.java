@@ -3,8 +3,9 @@ public class Main {
 <<<<<<< HEAD
         System.out.println("Vladimir - +7(913)250-66-70");
 =======
-        System.out.println("Vova - +7(913)250-66-70");
         System.out.println("Гоголя, 94-3");
+        System.out.println("Рогачёв");
 >>>>>>> new-contacts
     }
+
 }
