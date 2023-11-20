@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Vladimir - +7(913)250-66-70");
 =======
         System.out.println("Гоголя, 94-3");
+        System.out.println("Timofei Rogachyov");
 >>>>>>> new-contacts
     }
 
